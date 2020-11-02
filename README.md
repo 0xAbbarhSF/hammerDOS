@@ -10,14 +10,24 @@ You should rrun this script in many terminal
 Command 
 
 apt update
+
 apt upgrade
+
 pkg install git
+
 pkg install python python2 python3
+
 git clone https://github.com/Star-Ford/hammerDOS
+
 cd hammerDOS
+
 chmod +x *
+
 python3 hammerDOS.py -s ip -p port - bandwidth
 
 
 
 
+Run this tool in many terminal for good result
+For educational purposes only
+I am not responsible for any shit
