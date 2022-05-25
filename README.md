@@ -1,5 +1,4 @@
-#hammerDOS 
-#TERMUX
+### hammerDOS 
 
 Credit to the owner
 
@@ -7,23 +6,24 @@ Credit to the owner
 this tool is for DDOS WEBSIDE....... to make good result,
 You should rrun this script in many terminal 
 
-Command 
+## Command 
 
-apt update
+* apt update
 
-apt upgrade
+* apt upgrade
 
-pkg install git
+* pkg install git
 
-pkg install python python2 python3
+* pkg install python python2 python3 -y
 
-git clone https://github.com/Star-Ford/hammerDOS
+* git clone https://github.com/0xAbbarhSF/hammerDOS
 
-cd hammerDOS
+* cd hammerDOS
 
-chmod +x *
+* chmod +x *
+#### Run script
 
-python3 hammerDOS.py -s ip -p port - bandwidth
+* python3 hammerDOS.py -s ip -p port - bandwidth
 
 
 
